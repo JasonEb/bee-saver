@@ -8,7 +8,7 @@ function App() {
     <div className="App">
       <header className="App-header">Bee Saver</header>
       <BeeCanvas />
-      <Bee />
+      {/* <Bee /> */}
     </div>
   );
 }
